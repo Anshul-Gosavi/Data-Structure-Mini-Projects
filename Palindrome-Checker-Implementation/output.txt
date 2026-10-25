@@ -1,0 +1,13 @@
+PALINDROME TESTER
+Checking text with a stack and a queue
+
+Type a word or sentence: Was it a rat I saw?
+Text being checked: wasitaratisaw
+This text is a palindrome.
+Try another one? (y/n): y
+
+Type a word or sentence: coding
+Text being checked: coding
+This text is not a palindrome.
+Try another one? (y/n): n
+Goodbye.
